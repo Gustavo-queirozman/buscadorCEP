@@ -1,5 +1,5 @@
-# npx-create-react-app nomedoProjeto
+#npx-create-react-app nomedoProjeto
 
-# npm install react-icons
+#npm install react-icons
 
-# npm install axios
+#npm install axios
